@@ -19,7 +19,7 @@
 ## 📚 O Que Estou Estudando
 
 - 🚀 Aprimorando meus conhecimentos em **Desenvolvimento Full Stack**.
-- 🚀 Explorando mais sobre **Engenharia de Requisitosk**.
+- 🚀 Explorando mais sobre **Engenharia de Requisitos**.
 - 🚀 Descobrindo as maravilhas do **Design UX/UI**.
 
 ## 💌 Vamos Conectar?
