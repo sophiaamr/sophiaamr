@@ -5,6 +5,7 @@
 ## ✨ Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software.
+- 🎓 Técnico em desenvolvimento web e mobile pelo Colégio Cotemig.
 - 💻 Apaixonada por **Engenharia de Requisitos** e **Desenvolvimento de software**.
 - 🌱 Sempre aprendendo algo novo e aberta a desafios.
 - 🎨 Amo misturar **criatividade** com **código** para criar projetos incríveis!
