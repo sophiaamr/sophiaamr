@@ -4,15 +4,15 @@
 
 ## ✨ Sobre Mim
 
-- 🎓 Estudante de **Desenvolvimento Web e Mobile** no **Colégio Cotemig**.
+- 🎓 Estudante de Engenharia de Software.
 - 💻 Apaixonada por **Engenharia de Requisitos** e **Tecnologia**.
 - 🌱 Sempre aprendendo algo novo e aberta a desafios.
 - 🎨 Amo misturar **criatividade** com **código** para criar projetos incríveis!
 
 ## 🌼 Tecnologias & Ferramentas
 
-- 🌸 **Linguagens:** HTML, CSS, JavaScript, Python
-- 🌸 **Frameworks:** React, Node.js
+- 🌸 **Linguagens:** HTML, CSS, JavaScript, Java
+- 🌸 **Frameworks:** React, Node.js, SpringBoot
 - 🌸 **Ferramentas:** Git, VS Code, Figma
 
 ## 📚 O Que Estou Estudando
@@ -23,9 +23,8 @@
 
 ## 💌 Vamos Conectar?
 
-- 🌸 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com)
-- 🌸 **Twitter:** [Seu Twitter](https://www.twitter.com)
-- 🌸 **E-mail:** [Seu Email](mailto:seuemail@example.com)
+- 🌸 **LinkedIn:** [Seu LinkedIn](www.linkedin.com/in/sophia-rabelo-16513b206)
+- 🌸 **E-mail:** [Seu Email](sophiamendesrabelo@gmail.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 
